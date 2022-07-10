@@ -1,8 +1,8 @@
 jasonstartshere{
    "nataks":[
       {
-         "DramaName":"Natak",
-         "Venue":"b",
+         "DramaName":आमने सामने,
+         "Venue":बालगंधर्व रंगमंदिर,
          "Price":"150",
          "Date":"08-Jan-2021",
          "Details":"Cast",
@@ -10,10 +10,10 @@ jasonstartshere{
          "onlineBooking":"b"
       },
       {
-         "DramaName":"Natak-2",
-         "Venue":"balgandharv",
+         "DramaName":तू म्हणशील तसं,
+         "Venue":रामकृष्ण मोरे सभागृह,
          "Price":"150-onwards",
-         "Date":"21Jan",
+         "Date":"21-Jan-2021",
          "Details":"Cast",
          "phoneBooking":"9359184939",
          "onlineBooking":"b"
